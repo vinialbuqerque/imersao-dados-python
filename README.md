@@ -3,10 +3,10 @@ Este repositório é responsável por armazenar os códigos referentes à minha 
 
 ## Aprendizados:
 
-Aula 1 | Exploração de dados com a biblioteca Pandas
-Aula 2 | Limpeza e preparação dos dados
-Aula 3 | Criação de gráficos e storytelling com dados
-Aula 4 | Construção de um dashboard interativo
+- Aula 1 | Exploração de dados com a biblioteca Pandas
+- Aula 2 | Limpeza e preparação dos dados
+- Aula 3 | Criação de gráficos e storytelling com dados
+- Aula 4 | Construção de um dashboard interativo
 
 ## Organização dos arquivos do repositório:
 
