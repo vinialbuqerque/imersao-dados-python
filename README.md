@@ -1,6 +1,7 @@
 Este repositório é responsável por armazenar os códigos referentes à minha experiência de estudo prático na Imersão Dados Python II da Alura.
 
 **Aprendizados:**
+
 **Aula 1** | Exploração de dados com a biblioteca Pandas
 **Aula 2** | Limpeza e preparação dos dados
 **Aula 3** | Criação de gráficos e storytelling com dados
